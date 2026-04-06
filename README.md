@@ -1,50 +1,50 @@
-<h1>👋 &nbsp;Olá, eu sou Lais Siqueira | Data Business Analyst e Test Lead!</h1>
+<h1>👋 &nbsp;Hey, I'm Lais Siqueira | Data Business Analyst & Test Lead!</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/laispsiqueira/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:laispsiqueira@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-Sou uma analista de negócios de dados com mais de 10 anos de experiência na ponte entre times de negócio e tecnologia. Minha expertise reside na análise de requisitos, transformando processos manuais em fluxos automatizados e dados caóticos em insights acionáveis.
+I am a Data Business Analyst with over 10 years of experience bridging the gap between business and technology teams. My expertise lies in requirements analysis, transforming manual processes into automated workflows, and turning complex data into actionable insights.
 
-Tenho uma trajetória sólida de mais de 8 anos em Data Analytics, atuando como Business Analyst e Líder de Qualidade de Dados em projetos de Big Data[cite: 7]. Meu foco é construir soluções simples, funcionais e com impacto mensurável, utilizando metodologias ágeis como Scrum e SAFe.
+With over 8 years in Data Analytics, I have served as a Business Analyst and Data Quality Leader in high-impact Big Data project. My focus is on building simple, functional solutions with measurable impact using Agile methodologies like Scrum and SAFe.
 
+<h2> 🎓 &nbsp;Continuous Learning & Mentoring </h2>
 
-<h2> 🎓 &nbsp;Aprendizado Contínuo & Mentoria </h2>
+I believe technical excellence must always drive business value. I completed my specialization in **Software Testing and Automation at Qazando/UNIFATEC**, where I deepened my knowledge in building intelligent and reliable systems.
 
-Acredito que a excelência técnica deve sempre gerar valor ao negócio. Por isso, concluí minha especialização em **Teste de Software e Automação pela Qazando/UNIFATEC**, onde aprofundei conhecimentos em sistemas inteligentes e duráveis.
+<h2> 📚 &nbsp;What will you find here?</h2>
 
-<h2> 📚 &nbsp;O que você encontrará aqui?</h2>
+This GitHub reflects my progress in data quality studies, strategic automation, and full-stack development (JavaScript, Python).
 
-Este GitHub reflete o meu avanço em estudos em qualidade de dados, automação estratégica, desenvolvimento full-stack (java script, python).
-
-- **Projetos de Engenharia de Dados:** Validações automatizadas em Big Data (PySpark) e integração de pipelines[cite: 20].
-- **Automação de Processos:** Soluções para extração de dados e automação de portais com Playwright[cite: 18].
-- **Estratégias de QA & Data Quality:** Frameworks de teste e documentação de requisitos técnicos[cite: 24, 26].
-- **Estudos Técnicos:** Aplicações de dbt, Snowflake, Databricks e ferramentas modernas de dados[cite: 12, 43].
+- **Data Engineering Projects:** Automated Big Data validation using PySpark and pipeline integration.
+- **Process Automation:** Solutions for data extraction and portal automation using Playwright.
+- **QA & Data Quality Strategies:** Testing frameworks and technical requirements documentation.
+- **Technical Studies:** Implementations using dbt, Snowflake, Databricks, and modern data tools.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-### 📊 &nbsp;Data & Analytics:
+### &nbsp;Data & Analytics:
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apachespark)
-![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
+![dbt](https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt)
 ![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)
+![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-![dbt](https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt)
 
-### ⚙️ &nbsp;Engineering & QA:
+
+### &nbsp;Engineering:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+### &nbsp;QA:
 ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 
-### 🤝 &nbsp;Business & Agile:
+### &nbsp;Business & Agile:
 ![Agile](https://img.shields.io/badge/-Scrum%20%7C%20Kanban%20%7C%20SAFe-333333?style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
