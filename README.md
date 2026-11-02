@@ -8,9 +8,9 @@
 
 I am a Data Business Analyst with over 10 years specializing in Data Analysis and currently working with requirements gathering in data engineering projects (AWS and Azure). 
 
-My experience includes over 9 years focused on software quality across database technologies (SQL, Databricks, Snowflake, Redshift, Airflow) and web technologies (Appian, Salesforce, Tableau, Power BI). From my perspective
+My experience includes over 9 years focused on software quality across database technologies (SQL, Databricks, Snowflake, Redshift, Airflow) and web technologies (Appian, Salesforce, Tableau, Power BI). 
 
-Any team can deliver great projects by aligning transparent communication, a focus on quality delivery and clear requirements.
+From my perspective any team can deliver great projects by aligning transparent communication, a focus on quality delivery and clear requirements.
 
 <h2> 🎓 &nbsp;Continuous Learning & Mentoring </h2>
 
