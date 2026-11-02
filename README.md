@@ -6,9 +6,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-I am a Data Business Analyst with over 10 years of experience bridging the gap between business and technology teams. My expertise lies in requirements analysis, transforming manual processes into automated workflows, and turning complex data into actionable insights.
+I am a Data Business Analyst with over 10 years specializing in Data Analysis and currently working with requirements gathering in data engineering projects (AWS and Azure). 
 
-With over 8 years in Data Analytics, I have served as a Business Analyst and Data Quality Leader in high-impact Big Data project. My focus is on building simple, functional solutions with measurable impact using Agile methodologies like Scrum and SAFe.
+My experience includes over 9 years focused on software quality across database technologies (SQL, Databricks, Snowflake, Redshift, Airflow) and web technologies (Appian, Salesforce, Tableau, Power BI). From my perspective
+
+Any team can deliver great projects by aligning transparent communication, a focus on quality delivery and clear requirements.
 
 <h2> 🎓 &nbsp;Continuous Learning & Mentoring </h2>
 
